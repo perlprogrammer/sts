@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: zirtproject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: asim
+Implementation-Vendor-Id: com.zirtpirt
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/zirtproject
+Created-By: Maven Integration for Eclipse
+
